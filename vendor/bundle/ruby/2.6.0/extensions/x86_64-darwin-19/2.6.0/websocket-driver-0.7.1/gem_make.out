@@ -1,0 +1,15 @@
+current directory: /Users/yori-goreng/Desktop/RailsQ7/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/Users/yori-goreng/.rbenv/versions/2.6.6/bin/ruby -I /Users/yori-goreng/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200427-3152-9c72o8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yori-goreng/Desktop/RailsQ7/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/yori-goreng/Desktop/RailsQ7/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/yori-goreng/Desktop/RailsQ7/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200427-3152-1mot7gd
